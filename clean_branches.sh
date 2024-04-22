@@ -5,6 +5,7 @@
 #-    author          DanyKurosaki
 #-    github          https://github.com/danykurosaki
 #-    Purpose       This scripts allows cleaning the branches that does not have a tracking branch in the git server
+#-    ./clean_branches.sh
 #-
 #================================================================
 
