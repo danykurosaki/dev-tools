@@ -23,7 +23,7 @@ This script allows you to clean up local branches that no longer have a tracking
 ./clean_branches.sh
 ```
 
-<a id='clean_branches-sh'></a>
+<a id='decrypt-magento-config-php'></a>
   
 ### decrypt-magento-config.php
 
