@@ -5,6 +5,8 @@
 #-    author          DanyKurosaki
 #-    github          https://github.com/danykurosaki
 #-    Purpose         Get the stored encrypted keys in magento database
+#-    php decrypt-magento-config.php 
+#-    hm magento decrypt-magento
 #-
 #================================================================*/
 
