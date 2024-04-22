@@ -1,6 +1,6 @@
 # Programming Utilities Repository
 
-Welcome to the programming utilities repository by DanyKurosaki(https://github.com/danykurosaki)!
+Welcome to the programming utilities repository by [DanyKurosaki](https://github.com/danykurosaki)
 
 This repository is dedicated to providing a collection of scripts and tools aimed at simplifying and enhancing the software development process. From branch cleaning scripts to utilities for managing configurations in applications, you'll find a variety of resources here to make your daily developer workflow easier.
 
